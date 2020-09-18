@@ -6,20 +6,19 @@ In this project, I designed and developed an android application to collect news
 
 TinNews allows users to easily navigate to articles they might be interested in, through left and right swiping, and saves their "liked" articles for them to read later, with additional functionality to search through all news stories available.
 
-### Home Screen 
+## Home Screen 
 
 ![Screenshot](https://github.com/ViennaZhang/TinNews/blob/master/screenshots/TinNews-Home.png?raw=true)
-![Screenshot](https://github.com/ViennaZhang/TinNews/blob/master/screenshots/TinNews-Home-Swipe.png?raw=true)
 
-### Search Screen 
+## Search Screen 
 
 ![Screenshot](https://github.com/ViennaZhang/TinNews/blob/master/screenshots/TinNews-Search.png?raw=true)
 
-### Saved Screen 
+## Saved Screen 
 
 ![Screenshot](https://github.com/ViennaZhang/TinNews/blob/master/screenshots/TinNews-Saved.png?raw=true)
 
-### Article View 
+## Article View 
 
 ![Screenshot](https://github.com/ViennaZhang/TinNews/blob/master/screenshots/TinNews-Article.png?raw=true)
 
